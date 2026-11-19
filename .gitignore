@@ -1,0 +1,6 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+source/unz
+source/ast.json
